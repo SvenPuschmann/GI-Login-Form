@@ -1,2 +1,2 @@
-#Anregungen#
+# Anregungen
 - Mitgliedsnummer so eingeben lassen, wie sie auf dem Mitgliedsausweis steht (GI*****). Die Aufbereitung für die serverseitige Verarbeitung kann durch ein clientseitiges Skript oder auf dem Server erfolgen.
